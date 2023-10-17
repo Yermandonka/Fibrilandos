@@ -1,0 +1,9 @@
+#logo {
+    width: 150px; /* Define el ancho deseado */
+    height: auto; /* Mantén la proporción original */
+}
+header{
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
